@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H101, H102, H103, H104, H105, H109, H110, H111",MountingHole_6.4mm_M6_Pad_Via,8,MountingHole_Pad,
+"H106, H107, H108",MountingHole_4.3mm_M4_Pad_Via,3,MountingHole_Pad,
+J101,JST_XH_S7B-XH-A_1x07_P2.50mm_Horizontal,1,Conn_01x07,
